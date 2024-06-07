@@ -1,13 +1,13 @@
-import React from "react";
-import "./App.css";
-import TypingSpeed from "./TypingSpeed";
+import React from 'react'
+import './App.css'
+import TypingSpeed from './TypingSpeed'
 
-function App() {
+function App () {
   return (
-    <div className="App">
+    <div className='App'>
       <TypingSpeed />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
